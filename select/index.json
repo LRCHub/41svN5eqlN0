@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スカイブルー",
+  "base_artist": "The Birthday",
+  "createdAt": "2026-03-10T13:49:22.561711Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スカイブルー",
+      "artist": "The Birthday",
+      "has_synced": false,
+      "path": "select/pl_01_スカイブルー_The_Birthday.txt"
+    }
+  ]
+}
